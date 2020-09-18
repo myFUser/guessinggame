@@ -1,6 +1,6 @@
-#This is a large heading
+# This is a large heading
 
-##this is a small heading
+## This is a small heading
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet's pe,
@@ -25,6 +25,4 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is a image.](http://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md 
+![This is a image.](http://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg) 
